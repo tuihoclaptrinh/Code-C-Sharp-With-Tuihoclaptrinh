@@ -1,0 +1,16 @@
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.exe
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.runtimeconfig.dev.json
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.dll
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\ref\Array.dll
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\bin\Debug\net5.0\Array.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.dll
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\ref\Array.dll
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Array\Array\obj\Debug\net5.0\Array.genruntimeconfig.cache
