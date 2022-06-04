@@ -1,0 +1,16 @@
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.exe
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.runtimeconfig.dev.json
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.dll
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\ref\Method-Fuction.dll
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\bin\Debug\net5.0\Method-Fuction.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.dll
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\ref\Method-Fuction.dll
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Method-Fuction\Method-Fuction\obj\Debug\net5.0\Method-Fuction.genruntimeconfig.cache
