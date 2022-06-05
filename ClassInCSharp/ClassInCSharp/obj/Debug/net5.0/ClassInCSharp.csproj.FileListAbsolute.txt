@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.exe
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.deps.json
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.runtimeconfig.json
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.dll
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ref\ClassInCSharp.dll
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\bin\Debug\net5.0\ClassInCSharp.pdb
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.AssemblyInfo.cs
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.dll
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ref\ClassInCSharp.dll
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.pdb
+C:\Users\ACER\source\repos\ClassInCSharp\ClassInCSharp\obj\Debug\net5.0\ClassInCSharp.genruntimeconfig.cache
