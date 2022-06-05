@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.exe
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.deps.json
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.runtimeconfig.json
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.dll
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\ref\Value-Reference.dll
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\bin\Debug\net5.0\Value-Reference.pdb
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.AssemblyInfo.cs
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.dll
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\ref\Value-Reference.dll
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.pdb
+C:\Users\ACER\source\repos\Value-Reference\Value-Reference\obj\Debug\net5.0\Value-Reference.genruntimeconfig.cache
