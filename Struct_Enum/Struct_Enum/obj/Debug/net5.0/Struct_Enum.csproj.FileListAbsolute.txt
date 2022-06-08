@@ -1,0 +1,16 @@
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.exe
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.runtimeconfig.dev.json
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.dll
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\ref\Struct_Enum.dll
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\bin\Debug\net5.0\Struct_Enum.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.dll
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\ref\Struct_Enum.dll
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Struct_Enum\Struct_Enum\obj\Debug\net5.0\Struct_Enum.genruntimeconfig.cache
