@@ -1,0 +1,16 @@
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.exe
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.deps.json
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.runtimeconfig.json
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.runtimeconfig.dev.json
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.dll
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\ref\IDisposable_Using.dll
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\bin\Debug\net5.0\IDisposable_Using.pdb
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.csproj.AssemblyReference.cache
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.AssemblyInfoInputs.cache
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.AssemblyInfo.cs
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.csproj.CoreCompileInputs.cache
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.dll
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\ref\IDisposable_Using.dll
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.pdb
+C:\Users\ACER\source\repos\IDisposable_Using\IDisposable_Using\obj\Debug\net5.0\IDisposable_Using.genruntimeconfig.cache
