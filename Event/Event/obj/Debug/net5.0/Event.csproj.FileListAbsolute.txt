@@ -1,0 +1,16 @@
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.exe
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.runtimeconfig.dev.json
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.dll
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\ref\Event.dll
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\bin\Debug\net5.0\Event.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.dll
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\ref\Event.dll
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.pdb
+D:\ManagerProgramming\Project_DotNet\C#\Event\Event\obj\Debug\net5.0\Event.genruntimeconfig.cache
