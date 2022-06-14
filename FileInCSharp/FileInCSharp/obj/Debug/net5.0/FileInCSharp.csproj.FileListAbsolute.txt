@@ -1,0 +1,16 @@
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.exe
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.deps.json
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.runtimeconfig.json
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.runtimeconfig.dev.json
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.dll
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\ref\FileInCSharp.dll
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\bin\Debug\net5.0\FileInCSharp.pdb
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.csproj.AssemblyReference.cache
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.GeneratedMSBuildEditorConfig.editorconfig
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.AssemblyInfoInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.AssemblyInfo.cs
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.csproj.CoreCompileInputs.cache
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.dll
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\ref\FileInCSharp.dll
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.pdb
+D:\ManagerProgramming\Project_DotNet\C#\FileInCSharp\FileInCSharp\obj\Debug\net5.0\FileInCSharp.genruntimeconfig.cache
